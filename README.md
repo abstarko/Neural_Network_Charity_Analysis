@@ -8,13 +8,11 @@ From Alphabet Soup’s business team, we received a CSV containing more than 34,
 ## Results
 After attempting the model three times we were still unable to reach an accuracy rate of 75%. 
 
-The targe of this model was whether a charity would be able to succeed with an investors support.
+The target of this model was whether a charity would be able to succeed with an investors support.
 
 The features that can be removed include the name, status and special considerations.
 
 Other features that can be used for the model are the organization, income amount, ask amount, if successful, apllication, affiliation and the classification. 
-
-
 
 
 ## Summary
